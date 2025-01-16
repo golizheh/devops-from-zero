@@ -4,3 +4,12 @@
 
 # devops-from-zero
 This is a new CI/CD repo
+
+Setup Python Enviroment:
+Python3 -m ven  ~/.python-en
+source ~/.python-en/bin/activate     #Activate enviroment
+
+make install    #install packages
+make test    #RUN TEST
+
+
